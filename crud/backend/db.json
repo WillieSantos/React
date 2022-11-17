@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com"
+    },
+    {
+      "name": "Willie Santos",
+      "email": "willie_santos@hotmail.com",
+      "id": 3
+    },
+    {
+      "name": "Willie Novoooo",
+      "email": "testeemail@hotmail.com",
+      "id": 4
+    }
+  ]
+}
